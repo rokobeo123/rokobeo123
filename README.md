@@ -1,19 +1,57 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
+</div>
+
+<div align="center">
+
+**inzm** &nbsp;·&nbsp; `rokobeo123`
+
+*Competitive programmer · Chu Văn An High School · Vietnam*
+
+[![](https://img.shields.io/badge/Codeforces-Lamkhoi123-7aa2f7?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lamkhoi123)
+&nbsp;
+[![](https://img.shields.io/badge/VNOI-Lamkhoi123-bb9af7?style=flat-square)](https://oj.vnoi.info/user/Lamkhoi123)
+&nbsp;
+[![](https://img.shields.io/badge/CodeDream-inzm-9ece6a?style=flat-square)](https://oj.codedream.edu.vn/user/inzm)
+
+</div>
+
+---
+
+### about
+
+High school student at Chu Văn An, currently focused on competitive programming with C++.
+Learning algorithms and data structures — still early, but consistent.
+
+---
+
+### focus
 
 ```
-██╗███╗   ██╗███████╗███╗   ███╗
-██║████╗  ██║╚══███╔╝████╗ ████║
-██║██╔██╗ ██║  ███╔╝ ██╔████╔██║
-██║██║╚██╗██║ ███╔╝  ██║╚██╔╝██║
-██║██║ ╚████║███████╗██║ ╚═╝ ██║
-╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝
+Language     C++
+Area         Competitive Programming · Algorithms
+Platforms    Codeforces · VNOI OJ · CodeDream OJ
+School       Chu Văn An High School, Vietnam
 ```
 
-### `rokobeo123` · Inzm
+---
 
-*high school student · learning c++ · building things slowly*
+### projects
 
-🏫 Chu Văn An High School · 🇻🇳 Vietnam
+| | name | stack |
+|---|---|---|
+| 🌐 | [Perlindor Sparkling](https://rokobeo123.github.io/Perlindor/) | `HTML` `CSS` `JS` |
+| 📦 | [Cyberclip](https://github.com/rokobeo123/Cyberclip) | `Python` |
+
+---
+
+### stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=rokobeo123&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokobeo123&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" />
 
 </div>
 
@@ -21,80 +59,16 @@
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/─%20Codeforces-Lamkhoi123-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lamkhoi123)
-[![VNOI](https://img.shields.io/badge/─%20VNOI%20OJ-Lamkhoi123-F97316?style=flat-square)](https://oj.vnoi.info/user/Lamkhoi123)
-[![CodeDream](https://img.shields.io/badge/─%20CodeDream-inzm-8B5CF6?style=flat-square)](https://oj.codedream.edu.vn/user/inzm)
-[![Website](https://img.shields.io/badge/─%20Website-Perlindor%20↗-22C55E?style=flat-square)](https://rokobeo123.github.io/Perlindor/)
-
-</div>
-
----
-
-## `whoami`
-
-```cpp
-Student inzm = {
-    .school   = "Chu Van An High School",
-    .location = "Vietnam 🇻🇳",
-    .learning = { "C++", "Algorithms", "Data Structures" },
-    .hobbies  = { "Competitive Programming", "Building projects" },
-    .contact  = "Lamtu646@gmail.com"
-};
-```
-
-> Still learning — but learning every day.
-
----
-
-## `skills`
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-534AB7?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## `projects`
-
-| project | description | tech |
-|:--------|:------------|:-----|
-| [🌐 **Perlindor Sparkling**](https://rokobeo123.github.io/Perlindor/) | Personal website — Chu Văn An 2025 | `JS` `HTML` `CSS` |
-| [📦 **Cyberclip**](https://github.com/rokobeo123/Cyberclip) | Personal utility tool | `Python` |
-
-> 🔧 More C++ projects coming soon...
-
----
-
-## `competitive_programming`
-
-```
-Platform      Handle         Status
-──────────────────────────────────────
-Codeforces    Lamkhoi123     active ✓
-VNOI OJ       Lamkhoi123     active ✓
-CodeDream OJ  inzm           active ✓
-```
-
----
-
-## `stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rokobeo123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=534AB7&text_color=a0aec0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokobeo123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&text_color=a0aec0" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rokobeo123&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7" />
 
 </div>
 
 ---
 
 <div align="center">
+<sub>still learning · lamtu646@gmail.com</sub>
+</div>
 
-`still learning` · `still building` · [`Lamtu646@gmail.com`](mailto:Lamtu646@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=rokobeo123&color=534AB7&style=flat-square&label=visitors)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=80&section=footer&animation=fadeIn" />
 </div>
