@@ -14,8 +14,6 @@
 &nbsp;
 [![](https://img.shields.io/badge/CodeDream-inzm-9ece6a?style=flat-square)](https://oj.codedream.edu.vn/user/inzm)
 &nbsp;
-[![](https://img.shields.io/badge/website-Perlindor-e0af68?style=flat-square)](https://rokobeo123.github.io/Perlindor/)
-
 </div>
 
 ---
