@@ -1,100 +1,73 @@
 <div align="center">
 
-```
-██╗███╗   ██╗███████╗███╗   ███╗
-██║████╗  ██║╚══███╔╝████╗ ████║
-██║██╔██╗ ██║  ███╔╝ ██╔████╔██║
-██║██║╚██╗██║ ███╔╝  ██║╚██╔╝██║
-██║██║ ╚████║███████╗██║ ╚═╝ ██║
-╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝
-```
+# 👋 Hi, I'm Inzm (rokobeo123)
 
-### `rokobeo123` · Inzm
+**High school student @ Chu Văn An · Learning C++ · Building things**
 
-*high school student · learning c++ · building things slowly*
-
-🏫 Chu Văn An High School · 🇻🇳 Vietnam
+[![Codeforces](https://img.shields.io/badge/Codeforces-Lamkhoi123-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lamkhoi123)
+[![VNOI](https://img.shields.io/badge/VNOI-Lamkhoi123-orange?style=flat)](https://oj.vnoi.info/user/Lamkhoi123)
+[![CodeDream](https://img.shields.io/badge/CodeDream-inzm-purple?style=flat)](https://oj.codedream.edu.vn/user/inzm)
+[![Website](https://img.shields.io/badge/Website-Perlindor-brightgreen?style=flat&logo=github)](https://rokobeo123.github.io/Perlindor/)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-[![Codeforces](https://img.shields.io/badge/─%20Codeforces-Lamkhoi123-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lamkhoi123)
-[![VNOI](https://img.shields.io/badge/─%20VNOI%20OJ-Lamkhoi123-F97316?style=flat-square)](https://oj.vnoi.info/user/Lamkhoi123)
-[![CodeDream](https://img.shields.io/badge/─%20CodeDream-inzm-8B5CF6?style=flat-square)](https://oj.codedream.edu.vn/user/inzm)
-[![Website](https://img.shields.io/badge/─%20Website-Perlindor%20↗-22C55E?style=flat-square)](https://rokobeo123.github.io/Perlindor/)
-
-</div>
-
----
-
-## `whoami`
-
-```cpp
-Student inzm = {
-    .school   = "Chu Van An High School",
-    .location = "Vietnam 🇻🇳",
-    .learning = { "C++", "Algorithms", "Data Structures" },
-    .hobbies  = { "Competitive Programming", "Building projects" },
-    .contact  = "Lamtu646@gmail.com"
-};
-```
-
-> Still learning — but learning every day.
+- 🏫 Student at **Chu Văn An High School**, Vietnam
+- 📚 Currently learning **C++** — algorithms & data structures
+- 🌱 Practicing competitive programming on Codeforces & VNOI
+- 🔨 Building personal projects to improve my skills
+- 📬 Reach me at: `Lamtu646@gmail.com`
 
 ---
 
-## `skills`
+## 🛠️ Skills & Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-534AB7?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## `projects`
+## 🚀 Projects
 
-| project | description | tech |
-|:--------|:------------|:-----|
-| [🌐 **Perlindor Sparkling**](https://rokobeo123.github.io/Perlindor/) | Personal website — Chu Văn An 2025 | `JS` `HTML` `CSS` |
-| [📦 **Cyberclip**](https://github.com/rokobeo123/Cyberclip) | Personal utility tool | `Python` |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌐 Perlindor Sparkling](https://rokobeo123.github.io/Perlindor/) | Personal website project built for Chu Văn An | HTML · CSS · JS |
+| [📦 Cyberclip](https://github.com/rokobeo123/Cyberclip) | Personal utility project | Python |
 
 > 🔧 More C++ projects coming soon...
 
 ---
 
-## `competitive_programming`
-
-```
-Platform      Handle         Status
-──────────────────────────────────────
-Codeforces    Lamkhoi123     active ✓
-VNOI OJ       Lamkhoi123     active ✓
-CodeDream OJ  inzm           active ✓
-```
-
----
-
-## `stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rokobeo123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=534AB7&text_color=a0aec0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokobeo123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&text_color=a0aec0" />
+![rokobeo123's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokobeo123&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokobeo123&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 🏆 Competitive Programming
+
+- 🟦 Active on **Codeforces** — [Lamkhoi123](https://codeforces.com/profile/Lamkhoi123)
+- 🟧 Practicing on **VNOI OJ** — [Lamkhoi123](https://oj.vnoi.info/user/Lamkhoi123)
+- 🟣 Training on **CodeDream OJ** — [inzm](https://oj.codedream.edu.vn/user/inzm)
+
+---
+
 <div align="center">
 
-`still learning` · `still building` · [`Lamtu646@gmail.com`](mailto:Lamtu646@gmail.com)
+*"The journey of a thousand miles begins with a single step."* 🚀
 
-![](https://komarev.com/ghpvc/?username=rokobeo123&color=534AB7&style=flat-square&label=visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=rokobeo123&color=blue&style=flat)
 
 </div>
