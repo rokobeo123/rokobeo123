@@ -21,19 +21,15 @@
 ### 👨‍💻 about me
 
 - 🏫 Studying at **Chu Văn An High School**, Hanoi
-- 📖 Learning **C++** and competitive programming from scratch
-- 🧩 Enjoy solving problems on Codeforces & VNOI OJ
-- 🌱 Still early in the journey — but showing up every day
+- 📖 Still learning **C++** and competitive programming
+- 🌱 Still early in the journey
 
 ---
-
-### 🎯 current focus
 
 ```yaml
 language:   C++
 studying:   Algorithms · Data Structures · Problem Solving
 platforms:  Codeforces · VNOI OJ · CodeDream OJ
-goal:       Get better at competitive programming, one problem at a time
 ```
 
 ---
