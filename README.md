@@ -34,15 +34,6 @@ platforms:  Codeforces · VNOI OJ · CodeDream OJ
 
 ---
 
-### 🗂️ projects
-
-| | name | description | stack |
-|---|---|---|---|
-| 🌐 | [Perlindor Sparkling](https://rokobeo123.github.io/Perlindor/) | Personal web project | `HTML` `CSS` `JS` |
-| 📦 | [Cyberclip](https://github.com/rokobeo123/Cyberclip) | Utility tool | `Python` |
-
----
-
 ### 📊 stats
 
 <div align="center">
