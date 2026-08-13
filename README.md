@@ -21,8 +21,7 @@
 ### 👨‍💻 about me
 
 - 🏫 Studying at **Chu Văn An High School**, Hanoi
-- 📖 Still learning **C++** and competitive programming
-- 🌱 Still early in the journey
+- 📖 Still learning **C++**
 
 ---
 
