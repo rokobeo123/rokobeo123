@@ -51,10 +51,6 @@ platforms:  Codeforces · VNOI OJ · CodeDream OJ
 
 ---
 
-<div align="center">
-
-*"Every expert was once a beginner."*
-
 <br/>
 
 <sub>📬 lamtu646@gmail.com</sub>
