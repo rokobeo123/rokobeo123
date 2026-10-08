@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=180&section=header&text=hey%2C%20i%27m%20Inzm&fontSize=42&fontColor=7aa2f7&fontAlignY=38&desc=One%20problem%20at%20a%20time.&descSize=16&descAlignY=62" alt="Hey, I'm Inzm" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=180&section=header&text=hey%2C%20i%27m%20Inzm&fontSize=42&fontColor=7aa2f7&fontAlignY=38&desc=One%20problem%20at%20a%20time.&descSize=16&descAlignY=62" alt="Hey, I'm Nguyen Dang Lam" />
 
   <p>
     <b>A random student on the Internet</b><br/>
