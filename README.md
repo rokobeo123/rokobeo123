@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=180&section=header&text=hey%2C%20i%27m%20Inzm&fontSize=42&fontColor=7aa2f7&fontAlignY=38&desc=One%20problem%20at%20a%20time.&descSize=16&descAlignY=62" alt="Hey, I'm Inzm — One problem at a time." />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=180&section=header&text=hey%2C%20i%27m%20Inzm&fontSize=42&fontColor=7aa2f7&fontAlignY=38&desc=One%20problem%20at%20a%20time.&descSize=16&descAlignY=62" alt="Hey, I'm Inzm" />
 
   <p>
-    <b>Competitive programmer in the making</b><br/>
+    <b>A random student on the Internet</b><br/>
     <sub>Chu Văn An High School · Hanoi, Vietnam 🇻🇳</sub>
   </p>
 
@@ -15,11 +15,7 @@
 
 ### A little about me
 
-I'm a student at **Chu Văn An High School in Hanoi**, learning **C++** and working my way into competitive programming.
-
-- **Learning** — algorithms, data structures, and problem solving.
-- **Practicing on** — Codeforces, VNOI OJ, and CodeDream OJ.
-- **Working toward** — clearer reasoning and cleaner solutions, one problem at a time.
+I'm a student at **Chu Văn An High School in Hanoi**, learning **C++**.
 
 ### Currently learning
 
@@ -30,9 +26,6 @@ while (learning) {
     reflect();
 }
 ```
-
-<sub>A small reminder to understand the idea, write the solution, and learn from each attempt.</sub>
-
 ### GitHub activity
 
 <details>
@@ -55,6 +48,5 @@ while (learning) {
   <a href="mailto:lamtu646@gmail.com"><img src="https://img.shields.io/badge/Email-lamtu646%40gmail.com-e0af68?style=flat-square&logo=gmail&logoColor=white&labelColor=24283b" alt="Email: lamtu646@gmail.com" /></a>
   <br/>
   <br/>
-  <sub>Learning. Practicing. Getting a little better.</sub>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=90&section=footer" alt="" />
 </div>
