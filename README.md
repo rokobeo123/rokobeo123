@@ -24,8 +24,8 @@ I'm a student at **Chu Văn An High School in Hanoi**, learning **C++**.
   <br/>
 
   <div align="center">
-    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rokobeo123&amp;theme=tokyonight" alt="GitHub statistics for rokobeo123" />
-    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rokobeo123&amp;theme=tokyonight" alt="Languages by commit count in rokobeo123's repositories" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=rokobeo123&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;bg_color=1a1b26&amp;title_color=7aa2f7&amp;icon_color=e0af68&amp;text_color=a9b1d6&amp;border_radius=12" alt="GitHub statistics for rokobeo123" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rokobeo123&amp;layout=compact&amp;hide_border=true&amp;bg_color=1a1b26&amp;title_color=7aa2f7&amp;text_color=a9b1d6&amp;border_radius=12" alt="Most used languages in rokobeo123's repositories" />
     <br/>
     <br/>
     <a href="https://github.com/rokobeo123?tab=overview"><img width="100%" src="https://ghchart.rshah.org/7aa2f7/rokobeo123" alt="GitHub contribution calendar for rokobeo123" /></a>
