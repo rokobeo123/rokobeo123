@@ -17,15 +17,6 @@
 
 I'm a student at **Chu Văn An High School in Hanoi**, learning **C++**.
 
-### Currently learning
-
-```cpp
-while (learning) {
-    understand();
-    solve();
-    reflect();
-}
-```
 ### GitHub activity
 
 <details>
